@@ -1,0 +1,7 @@
+CPSv3_dir=F:/CPSForecast/Daily/2021/
+ecmf_dir=F:/ecmf/2021/
+CFSv2_dir=F:/CFSv2/Daily/2021/
+sta_dir=F:/
+clim_dir=F:/
+out_dir=./output/
+tt=20210416

@@ -1,0 +1,3 @@
+algorithm,hint,lead_day,mean_loss,mean_regret
+dorm,None,20,5.421288453368759,881.6459381316689
+adaptdorm,None,20,5.175762788384254,851.512509319385
